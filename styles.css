@@ -31,7 +31,16 @@ p {
 img {
   width: 80%;
 }
-
+.refresh {
+  text-align: center;
+  padding-top: 3rem;
+}
+.refresh button {
+  background-color: #4ECCA3;
+  color: white;
+  border: none;
+  font-size: 2rem;
+}
 footer {
   margin-top: 5%;
   color: #EEEEEE;
